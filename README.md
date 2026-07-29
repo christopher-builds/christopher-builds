@@ -1,6 +1,6 @@
-# Calm. Technical. Intentional.
+# So, who am I exactly?
 
-I am a student developer focused on building useful systems that are fast, understandable, and **actually work**. My interests sit between software, electrical engineering, and product design.
+I am a student developer focused on building useful systems that are fast, understandable, and **actually work**. I like electronics (ESP32), coding web apps, reading, listening to music, and understanding how things work. 
 
 ---
 
@@ -30,7 +30,7 @@ I am a student developer focused on building useful systems that are fast, under
 
 ## Build Philosophy
 
-> “Use AI to move faster, not to avoid understanding what was built.”
+> “Use AI not to think for you mindlessly, but as a **tool** that can help you accelerate your workflow.
 
 I care about clean interfaces, narrow scope, reliable behavior, and software that solves a real problem before it tries to look impressive.
 
@@ -38,6 +38,9 @@ I care about clean interfaces, narrow scope, reliable behavior, and software tha
 
 ## Current Direction
 
-Working on Lumina, an app where Pinterest meets anti-brainrot. Currently working on the backend😵‍💫
+Working on Lumina, a Pinterest inspired visual news app built for people who use social media to stay informed—minus the data stealing, doomscrolling, and manipulation.
+
+Progress: Frontend is 90% done, but not the backend. Link coming soon.
 
 If you are building something thoughtful, useful, or slightly overengineered for a good reason, I am probably interested :)
+
