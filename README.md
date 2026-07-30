@@ -42,5 +42,5 @@ Working on Lumina, a Pinterest inspired visual news app built for people who use
 
 Progress: Frontend is 90% done, but not the backend. Link coming soon.
 
-If you are building something thoughtful, useful, or slightly overengineered for a good reason, I am probably interested :)
+If you are building something thoughtful, useful, or slightly overengineered for a good reason, hmu :)
 
