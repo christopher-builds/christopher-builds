@@ -10,7 +10,7 @@ I am a student developer focused on building useful systems that are fast, under
 
 | Category | Tools |
 |---|---|
-| Languages | TypeScript, JavaScript, C++, HTML/CSS |
+| Languages | TypeScript, JavaScript, C++, HTML, CSS |
 | Frameworks | Next.js, React |
 | Backend | Supabase, Cloudflare Workers |
 | Tools | GitHub, Codex, Cursor, Vercel |
